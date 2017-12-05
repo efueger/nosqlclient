@@ -3,7 +3,7 @@
 Cross-platform and self hosted, easy to use, MongoDB 3.4+ support and more features! 
 
 [![Build Status](https://travis-ci.org/nosqlclient/nosqlclient.svg?branch=master)](https://travis-ci.org/nosqlclient/nosqlclient)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b8ebd97a86f73e96358d/maintainability)](https://codeclimate.com/github/efueger/nosqlclient/maintainability)
+[![Maintainability](https://codeclimate.com/github/efueger/nosqlclient/maintainability)](https://api.codeclimate.com/v1/badges/b8ebd97a86f73e96358d/maintainability)
 [![Maintainability](https://api.codeclimate.com/v1/badges/1f2f4981463f24753c34)](https://codeclimate.com/repos/5a26aea50ee2e602950029db/maintainability)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6a75fc4e1d3f480f811b5339202400b5)](https://www.codacy.com/app/ozdemirsercan27/mongoclient?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mongoclient/mongoclient&amp;utm_campaign=Badge_Grade)
 [![GitHub release](https://img.shields.io/github/release/nosqlclient/nosqlclient.svg)](https://github.com/nosqlclient/nosqlclient)
